@@ -1,7 +1,11 @@
-# PracticeProblemsAssignment
-Let's tackle some practice problems!
+Get started by forking [this repository](https://github.com/TIY-Charlotte-Java/PracticeProblemsAssignment).
 
-For today's homework, we're going to tackle a series of 3 practice problems. (It was going to be 5, but it's Emileen's birthday. Happy Birthday, Emileen.)
+For today's homework, we're going to tackle a series of 3 practice problems. 
+
+But first, let's enjoy this image of two hamsters on a hamster wheel:
+
+![hamsters](https://lh6.googleusercontent.com/-jziFd9qK9qM/UJKz-jQJ3NI/AAAAAAACYAE/1SF8WJOF52w/w506-h380/photo.gif)
+
 
 # Problem 1: FizzBuzz
 
@@ -36,6 +40,5 @@ boost(412);   // 523
 ```
 
 
-## Write all of these as static methods in the Main class, and demonstrate their functionality by calling them from the main method.
-
+## Write all of these as static methods in the Main class, and demonstrate their functionality by writing tests for them.
 
