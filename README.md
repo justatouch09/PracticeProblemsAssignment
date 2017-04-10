@@ -28,17 +28,5 @@ fib(n) = fib(n-1) + fib(n-2)
 Write the `fibseq(x)` function that returns the first X elements of the Fibonacci sequence.
 
 
-# Problem 3: Increment All The Things
-Write a function called `boost()` that accepts a number as a parameter and increments all of the digits of the number individually. If the digit is 0-8, it should be incremented, but if its 9 then it should be reset to 0.
-
-The function should return a number.
-
-```
-boost(129);   // 230
-boost(49);    // 50
-boost(412);   // 523
-```
-
-
 ## Write all of these as static methods in the Main class, and demonstrate their functionality by writing tests for them.
 
